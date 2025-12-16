@@ -87,7 +87,7 @@ if winner_turtle:
   text_screen(winner_color + " won!", winner_color)
 
 # Wait a moment, then close the window gracefully
-time.sleep(3) 
+time.sleep(1) 
 
 # --- Keep the window open ---
 # This command keeps the turtle graphics window open until the user closes it.
